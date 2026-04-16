@@ -13,7 +13,7 @@
 #   - Optional llama-cpp-python for local LLM translation (prebuilt wheel only)
 #
 # Usage:
-#   !git clone https://github.com/meizhong986/WhisperJAV.git
+#   !git clone https://github.com/ktrankc/WhisperJAV.git
 #   !bash WhisperJAV/installer/install_colab.sh
 #
 # Debug mode (verbose output):
@@ -22,7 +22,7 @@
 # ==============================================================================
 
 # Configuration
-WHISPERJAV_REPO="https://github.com/meizhong986/WhisperJAV.git"
+WHISPERJAV_REPO="https://github.com/ktrankc/WhisperJAV.git"
 WHISPERJAV_BRANCH="main"
 HF_WHEEL_REPO="mei986/whisperjav-wheels"
 LLAMA_CPP_VERSION="0.3.21"
